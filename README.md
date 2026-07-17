@@ -1,15 +1,15 @@
-# Hi, I'm Aditya Goyal 
+# Hi, I'm Aditya Goyal
 
 I'm a Computer Engineering student at Thapar Institute of Engineering & Technology, interested in software development, competitive programming, and building projects.
 
-##  About Me
+## About Me
 
 - 🎓 Computer Engineering student at **Thapar Institute of Engineering & Technology**
 - 💻 Currently learning **Data Structures & Algorithms in C++**
 - 🧩 Regularly solving problems on **Codeforces**
 - 🛠️ Interested in **Software Development**
 - 📱 Previously explored **Flutter Development**
-- 🎮 Experience with **Game Development** and 3D tools
+- 🎮 Experience with **Game Development** and 3D art
 
 ## 💻 Tech Stack
 
@@ -31,27 +31,17 @@ I'm a Computer Engineering student at Thapar Institute of Engineering & Technolo
 
 ## 📂 Featured Projects
 
-###  Billify
+### 🎵 [Billify](https://github.com/aditya-g-12/billify-flutter-music-player-app)
 
 A Flutter-based music player application built while exploring mobile app development and UI design.
 
-###  Codeforces Solutions
+### 🧩 [Codeforces Solutions](https://github.com/aditya-g-12/codeforces-solutions)
 
 A collection of my solutions to Codeforces problems as I practice competitive programming and improve my problem-solving skills.
 
-###  Galaxy Destroyer
+### 🎮 [Sky Catcher](https://novamorava213.itch.io/sky-catcher)
 
-One of my earlier game development projects.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-g-12&show_icons=true&theme=github_dark" alt="Aditya's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-g-12&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+A game project where I worked as the **artist**, contributing to the game's visual design and art.
 
 ## 🐍 My Contributions
 
@@ -71,10 +61,6 @@ One of my earlier game development projects.
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-aditya--g--12-181717?style=for-the-badge&logo=github)](https://github.com/aditya-g-12)
-
-<!-- Add your LinkedIn profile -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Goyal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
-
-<!-- Add your Codeforces profile -->
-<!-- [![Codeforces](https://img.shields.io/badge/Codeforces-Aditya-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_URL) -->
+[![GitHub](https://img.shields.io/badge/GitHub-aditya--g--12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-g-12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityagoyal3/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-adityagoyal128-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/adityagoyal128)
