@@ -53,11 +53,6 @@ A game project where I worked as the **artist**, contributing to the game's visu
   </picture>
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-g-12&theme=github_dark" alt="GitHub Contribution Stats" />
-</p>
 
 ## 📫 Connect With Me
 
